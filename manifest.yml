@@ -1,0 +1,4 @@
+---
+applications:
+- name: drupal-ama
+  memory: 128M
